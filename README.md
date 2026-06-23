@@ -20,7 +20,7 @@ A professional, internship-level, production-ready Full Stack E-Commerce Web App
 ## 📁 Repository Structure
 
 ```text
-HorizonTechX_ECommerceStore/
+HorizonTechX_ECommerce/
 ├── backend/
 │   ├── config/
 │   │   └── db.js               # Mongoose MongoDB connection
